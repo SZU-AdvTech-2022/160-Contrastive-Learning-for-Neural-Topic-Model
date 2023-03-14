@@ -1,4 +1,4 @@
-@article{REPO-161,
+@article{REPO-160,
     author = "Nguyen, Thong and Luu, Anh Tuan",
     journal = "Advances in Neural Information Processing Systems",
     pages = "11974--11986",
